@@ -11,10 +11,10 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 @WebServlet("/Servlet")
-public class Indexjava extends HttpServlet {
+public class Servlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
     
-    public Indexjava() {
+    public Servlet() {
         super();
         // TODO Auto-generated constructor stub
     }
